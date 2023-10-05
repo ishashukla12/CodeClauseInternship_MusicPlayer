@@ -1,2 +1,2 @@
 # CodeClauseInternship_MusicPlayer
-I developed MusicPlayer in python using tkinter
+I developed a Python Music Player with Tkinter GUI
